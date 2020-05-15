@@ -4,11 +4,8 @@ This repository contains all the code written for the purpose of analyzing diffe
 Files included & their corresponding datasets:
 
 dataset_1.py          corresponds to    data_1.csv,
-
 work_data.py          corresponds to    work_dataset.xlsx,
-
 dataset_3.py          corresponds to    data_3.csv,
-
 personal_dataset.py   corresponds to    personal.csv
 
 Every python file will generate multiple graphs (present in the video) based on the data provided in each dataset.
