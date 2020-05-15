@@ -10,7 +10,8 @@ personal_dataset.py   corresponds to    personal.csv
 
 Every python file will generate multiple graphs (present in the video) based on the data provided in each dataset.
 At the bottom of each python file, you will find a section called "Extra graphs". This section represents graphs
-that we thought might be useful to visualize but were not included in the video due to time restriction.
+that we thought might be useful to visualize but were not included in the video due to time restriction. Simply type
+'y' if you would like to see them. Otherwise, they won't show up.
 
 Important notes:
 
