@@ -15,8 +15,8 @@ that we thought might be useful to visualize but were not included in the video 
 
 Important notes:
 
-1- When running the python scripts, make sure to replace the path of the .csv or .xlsx datasets in the variable "filename"
-   at the top of the file. If all the below files are in the same directory, no change is needed.
+1- When running the python scripts, make sure to replace the path of the .csv or .xlsx datasets at the beginning
+   of the file. If all the below files are in the same directory, no change is needed.
    
 2- If you have any question on how to set-up the scripts, please do email me at: samyallal00@ucla.edu
 
