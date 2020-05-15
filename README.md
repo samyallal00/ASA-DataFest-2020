@@ -20,9 +20,14 @@ Important notes:
    
 2- If you have any question on how to set-up the scripts, please do email me at: samyallal00@ucla.edu
 
+
+
 Credits:
 
 Samy ALLAL - dataset_1.py, work_data.py, dataset_3.py, personal_dataset.py
+
 Natsharee Paeng Pulkes - work_data.py
+
 Adam Young - dataset_1_work.py
+
 Christopher Dimapasok - Datasets gathered
